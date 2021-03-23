@@ -1,6 +1,6 @@
 ###  About Me 👋
 
--  :sunny: I’m currently working `todo`
+-  :sunny: I’m currently working for `skieer`
 -  :pencil2: I’m currently learning `auto-testing` for `client` and `web`
 -  :whale: I much appreciate  `cloud native` 
 -  :speech_balloon: Ask me about `testing`
