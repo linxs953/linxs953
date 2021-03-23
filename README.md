@@ -1,9 +1,9 @@
 ###  About Me 👋
 
 -  :sunny: I’m currently working `todo`
--  :pencil2: I’m currently learning `auto-testing` and programming language like `golang`
+-  :pencil2: I’m currently learning `auto-testing` for `client` and `web`
 -  :whale: I much appreciate  `cloud native` 
--  :speech_balloon: Ask me about `testing` or  `programming language`
+-  :speech_balloon: Ask me about `testing`
 -  :octocat: Contact Me:  cakelinxs@outlook.com
 
 
